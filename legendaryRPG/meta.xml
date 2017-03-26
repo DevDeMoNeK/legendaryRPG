@@ -1,0 +1,4 @@
+<meta>
+	<info author="DeMoNeK_" type="gamemode" name="legendaryRPG" version="0.1" description="Gamemode RPG" />
+	<script src="ustawienia.lua" type="server" />
+</meta>

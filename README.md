@@ -12,6 +12,6 @@ Autorem kodu jest DeMoNeK_ (DevDeMoNeK mwpoland@interia.pl)
 W repozytorium znajduje się:
 - Zasób głowny (core.lua)
 - Zasób z ustawieniami (ustawienia.lua)
-Wkrótce zostanie dodane:
+# Wkrótce zostanie dodane:
 - Panel tworzenia kont.
 - System pojazdów.
